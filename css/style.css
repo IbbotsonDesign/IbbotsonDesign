@@ -2108,7 +2108,8 @@ li .dgo-tabs {
 	}
 
 	.meta-menu {
-		margin: 0 0 0 63%;
+		margin: 0 18px 0 0%;
+        float: right;
 	}
 
 	.meta-navigation-full .meta-menu li {
